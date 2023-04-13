@@ -11,7 +11,7 @@ C can be placed before D (500) and M (1000) to make 400 and 900.
 
 Given an integer, convert it to a roman numeral.
 
-
+---------------------------------
 
 Example 1:
 
@@ -21,6 +21,8 @@ Output: "III"
 
 Explanation: 3 is represented as 3 ones.
 
+---------------------------------
+
 Example 2:
 
 Input: num = 58
@@ -28,6 +30,8 @@ Input: num = 58
 Output: "LVIII"
 
 Explanation: L = 50, V = 5, III = 3.
+
+---------------------------------
 
 Example 3:
 
